@@ -15,5 +15,5 @@ This project covers the system that organizes tasks for printer and demonstrates
 ### Book reservation app (database project)  
 **About**
 This project is about reservation of books and use of database  
-**Repository**
+**Repository**:  
 [Book-reservation-app](https://github.com/Bendy545/Book-reservation-app.git)
