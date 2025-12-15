@@ -9,4 +9,11 @@ Each entry below includes a short description and a link to the dedicated reposi
 **About**:  
 This project covers the system that organizes tasks for printer and demonstrates concepts of parallelization.  
 **Repository**:  
-[printer-spooler](https://github.com/Bendy545/printer-spooler-problem.git)
+[printer-spooler](https://github.com/Bendy545/printer-spooler-problem.git)  
+
+
+### Book reservation app (database project)  
+**About**
+This project is about reservation of books and use of database  
+**Repository**
+[Book-reservation-app](https://github.com/Bendy545/Book-reservation-app.git)
