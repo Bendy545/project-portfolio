@@ -13,7 +13,7 @@ This project covers the system that organizes tasks for printer and demonstrates
 
 
 ### RV rental app (database project)  
-**About**
+**About**:  
 This project is about rental of RVs and use of database  
 **Repository**:  
 [RV-rental-app](https://github.com/Bendy545/RV-rental-app.git)
