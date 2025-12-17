@@ -12,7 +12,7 @@ This project covers the system that organizes tasks for printer and demonstrates
 [printer-spooler](https://github.com/Bendy545/printer-spooler-problem.git)  
 
 
-### Book reservation app (database project)  
+### RV rental app (database project)  
 **About**
 This project is about rental of RVs and use of database  
 **Repository**:  
