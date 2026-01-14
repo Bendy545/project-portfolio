@@ -20,6 +20,6 @@ This project is about rental of RVs and use of database
 
 ### P2P bank system  
 **About**:  
-This project is about bank system using the P2P design pattern  
+This project is about bank system using the P2P architecture  
 **Repository**:  
 [P2P-bank-system](https://github.com/Bendy545/P2P-bank-system.git)
