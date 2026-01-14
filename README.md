@@ -16,4 +16,10 @@ This project covers the system that organizes tasks for printer and demonstrates
 **About**:  
 This project is about rental of RVs and use of database  
 **Repository**:  
-[RV-rental-app](https://github.com/Bendy545/RV-rental-app.git)
+[RV-rental-app](https://github.com/Bendy545/RV-rental-app.git)  
+
+### P2P bank system  
+**About**:  
+This project is about bank system using the P2P design pattern  
+**Repository**:  
+[P2P-bank-system](https://github.com/Bendy545/P2P-bank-system.git)
