@@ -22,4 +22,10 @@ This project is about rental of RVs and use of database
 **About**:  
 This project is about bank system using the P2P architecture  
 **Repository**:  
-[P2P-bank-system](https://github.com/Bendy545/P2P-bank-system.git)
+[P2P-bank-system](https://github.com/Bendy545/P2P-bank-system.git)  
+
+### Prague Rent Predictor  
+**About**:  
+This project is an AI model that predicts rent prices in Prague  
+**Repository**:  
+[Prague-Rent-Predictor](https://github.com/Bendy545/Prague-Rent-Predictor)
