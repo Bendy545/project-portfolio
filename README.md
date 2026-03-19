@@ -24,8 +24,8 @@ This project is about bank system using the P2P architecture
 **Repository**:  
 [P2P-bank-system](https://github.com/Bendy545/P2P-bank-system.git)  
 
-### Prague Rent Predictor  
+### CS2-Match-Predictor 
 **About**:  
-This project is an AI model that predicts rent prices in Prague  
+This project is an AI model that FACEIT CS2 matches.
 **Repository**:  
-[Prague-Rent-Predictor](https://github.com/Bendy545/Prague-Rent-Predictor)
+[CS2-Match-Predictor](https://github.com/Bendy545/CS2-Match-Predictor)
