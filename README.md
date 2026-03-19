@@ -26,6 +26,6 @@ This project is about bank system using the P2P architecture
 
 ### CS2-Match-Predictor 
 **About**:  
-This project is an AI model that FACEIT CS2 matches.
+This project is an AI model that predicts FACEIT CS2 matches.
 **Repository**:  
 [CS2-Match-Predictor](https://github.com/Bendy545/CS2-Match-Predictor)
